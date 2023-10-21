@@ -15,3 +15,10 @@ docs/
 
 broadcast/
 lib/
+
+
+#bkbailey@DESKTOP-I2JQ7SL:~/foundry-f23/foundry-simple-storage-f23/foundry-fund-me-f23$ git add .
+#ibkbailey@DESKTOP-I2JQ7SL:~/foundry-f23/foundry-simple-storage-f23/foundry-fund-me-f23$ ls
+#Makefile  README.md  cache  foundry.toml  learninig.sol  lib  out  script  src  test
+#ibkbailey@DESKTOP-I2JQ7SL:~/foundry-f23/foundry-simple-storage-f23/foundry-fund-me-f23$ git status
+#git commit -m 'our first commit'
