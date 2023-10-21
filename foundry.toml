@@ -1,0 +1,9 @@
+[profile.default]
+src = "src"
+out = "out"
+libs = ["lib"]
+remappings = ["@chainlink/contracts/=lib/chainlink-brownie-contracts/contracts/"]
+
+# See more config options https://github.com/foundry-rs/foundry/blob/master/crates/config/README.md#all-options
+# remapping is used to rediridrt where a contract should get its link from,in the above we said
+# when ever it sees @chainlink/contracts redirect it to lib/chainlink-brownie-contracts/contracts/
